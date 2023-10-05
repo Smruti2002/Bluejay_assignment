@@ -15,6 +15,9 @@ Write the desired output in text file
 **EDGE CASES HANDLING**
 
 Preprocessed the data
+
 If date and time are not in correct format, discard that shift details
+
 if Time out < Time In, discard that shift details
+
 If a column has a null value, the whole row is discarded
